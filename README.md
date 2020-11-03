@@ -41,5 +41,5 @@
 
 [website]: https://arthurvinberg.com
 [instagram]: https://www.instagram.com/arthur_vinberg/
-[linkedin]: www.linkedin.com/in/vinarthur
+[linkedin]: https://www.linkedin.com/in/vinarthur
 

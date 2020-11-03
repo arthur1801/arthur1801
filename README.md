@@ -1,3 +1,5 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 ### Hi there, I'm [Arthur][website] 👋
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="vinarthur"><a class="LI-simple-link" href='https://il.linkedin.com/in/vinarthur?trk=profile-badge'>Arthur Vinberg</a></div>

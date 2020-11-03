@@ -9,7 +9,7 @@
 ## I'm a SW Engineering student, and System Administrator
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Build more projects and graduate.
+- 🥅 2021 Goals: Build more projects.
 
 ### Languages and Tools:
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
